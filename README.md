@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🎓 AI & Data Science Student
+🎓 AI & Machine Learning Student
 🤖 Aspiring AI Engineer
 📊 Machine Learning Enthusiast
 
